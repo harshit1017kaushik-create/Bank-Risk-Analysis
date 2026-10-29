@@ -140,7 +140,6 @@ Bank-Risk-Analysis/
                   
 ```
 
-The repository structure can be adjusted to match the files uploaded to GitHub.
 
 ## How to Run the Project
 
